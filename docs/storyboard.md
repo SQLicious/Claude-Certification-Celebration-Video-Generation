@@ -17,7 +17,6 @@ assets/character/character-sheet-burgundy-v1.png
 Higgsfield upload ID:
 
 ```text
-5cb2ced3-d385-4bfe-ba5b-4279bb35ff62
 ```
 
 Character anchor:

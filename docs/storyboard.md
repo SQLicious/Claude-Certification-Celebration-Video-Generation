@@ -14,11 +14,6 @@ Master character reference:
 assets/character/character-sheet-burgundy-v1.png
 ```
 
-Higgsfield upload ID:
-
-```text
-```
-
 Character anchor:
 
 ```text
